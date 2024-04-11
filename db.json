@@ -1,14 +1,13 @@
 [
-    {
-      "name": "JLPT-N1",
-      "navtivelanguage": "JP",
-      "number": "3",
-      "wordlanguage": "EN"
-    },
-    {
-      "name": "JLPT-N2",
-      "navtivelanguage": "JP",
-      "number": "3",
-      "wordlanguage": "EN"
+  {
+    "title": "JLPT-N2",
+    "nativeLanguage": "JP",
+    "number": "3",
+    "translationLanguage": "EN",
+    "wordlist": {
+      "危ない": {"nativeWord":"危ない","translationMeaning":"dangerous" },
+      "刑務所": {"nativeWord":"刑務所","translationMeaning":"jail" },
+      "千代田": {"nativeWord":"千代田","translationMeaning":"chiyoda" }
     }
-  ]
+  }
+]
