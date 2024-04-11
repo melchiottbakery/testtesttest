@@ -1,14 +1,11 @@
-[
+{
+  "posts": [
     {
-      "name": "JLPT-N1",
-      "navtivelanguage": "JP",
-      "number": "3",
-      "wordlanguage": "EN"
-    },
-    {
-      "name": "JLPT-N2",
-      "navtivelanguage": "JP",
-      "number": "3",
-      "wordlanguage": "EN"
+      "id": 1,
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
